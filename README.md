@@ -1,6 +1,7 @@
-## TransIntegrator ： a pipeline for integrative transcript library construction(www.bio-add.org/InTrans/)
+## TransIntegrator ： a pipeline for integrative transcript library construction
+## Integrative transcript library for <em>Branchiostoma floridae</em> (www.bio-add.org/InTrans/)
 ### Copyright (C) 2017 ZhiLiang Ji (appo@xmu.edu.cn)
-## Requirement
+## RequirementT
 This software is suitable for all unix-like system with python(version 2.7.7) installed.<br>
 `One python module was required before usage : configparser3.5.0.`<br><br>
 Moreover, three already published softwares should be correctly installed in advance, and
