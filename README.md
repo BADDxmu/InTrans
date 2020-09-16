@@ -7,12 +7,11 @@ This software is suitable for all unix-like system with python(version 2.7.7) in
 `One python module was required before usage : configparser3.5.0.`<br><br>
 Moreover, three already published softwares should be correctly installed in advance, and
 make sure they had been add to your system environment variables. The three softwares are:<br>
-(1) IDBA (version 1.1.1) <br>
-(2) CD-HIT (version 4.5.4) <br>
-(3) CAP3 (version 12/21/07) <br>
+(1) IDBA (version 1.1.1)  https://github.com/loneknightpy/idba <br>
+(2) CD-HIT (version 4.5.4) http://www.bioinformatics.org/cd-hit/ <br>
+(3) CAP3 (version 12/21/07) http://seq.cs.iastate.edu/cap3.html <br>
 of course, for softwares mentioned above, other version is allowed. However, the pipeline operated
 stably with the recommended version. <br>
-To ease the use of the pipeline, we provided the three required softwares in compressed package "tools.rar".  <br>
 ## Installation Guide
 Simply installed by extracting the software package
 ## Usage
