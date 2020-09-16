@@ -12,6 +12,7 @@ make sure they had been add to your system environment variables. The three soft
 (3) CAP3 (version 12/21/07) <br>
 of course, for softwares mentioned above, other version is allowed. However, the pipeline operated
 stably with the recommended version. <br>
+To ease the use of the pipeline, we provided the three required softwares in compressed package "tools.rar".  <br>
 ## Installation Guide
 Simply installed by extracting the software package
 ## Usage
